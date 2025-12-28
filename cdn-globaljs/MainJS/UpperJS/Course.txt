@@ -312,7 +312,7 @@
         
     >
 
-    <script src="https://cdn-globaljs-kz1.pages.dev/cdn-globaljs/MainJS/UpperJS/Course.JS" defer></script>
+    <script src="https://cdn.jsdelivr.net/gh/urmydestiny/cdn-globaljs@main/cdn-globaljs/MainJS/UpperJS/Course.JS" defer></script>
     
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
